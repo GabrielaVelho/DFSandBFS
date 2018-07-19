@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1446559129 source:z:\desktop\dfs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"elemento.h"
+	"queue.h"
+	"grafo.h"
+
+1446550581 z:\desktop\dfs\elemento.h
+
+1446558680 z:\desktop\dfs\queue.h
+
+1446559150 z:\desktop\dfs\grafo.h
+
